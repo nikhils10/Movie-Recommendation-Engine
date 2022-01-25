@@ -2,8 +2,7 @@
 
 ## Project Overview 
 Building a movie recommendation engine using different techniques like content based and collaborative based methods.
-Content based techniques the content about the movie to recommend similar movie to you. For example if you liked a movie like "Batman Begins" it would recommend you 
-similar movies like Batman. 
+Content based techniques utilize the content about the movie to recommend similar movie to you. For example if you liked a movie like "Batman Begins" it would recommend you similar movies like Batman. 
 
 In content based technique we have taken the following features of movies like its title, director, top actors , genre and combined them as one feature .
 Then we use word embeddings of 300 dimensions and generate cosine similarity matrix and find similar movies for that movie.
@@ -15,7 +14,7 @@ We also checked methods matrix factorization methods like Singular Value Decompo
 
 
 ## Motivation
-Watching Netflix and seeing how good it is at recommending me the articles. 
+Watching Netflix and seeing how good it is at recommending me the articles had me curious about what algorithms it uses to make those recommendations.
 Very excited and feel this is a very cool area in data science and machine learning . 
 Almost every service needs personalization for its users from movies on Netflix to songs on Spotify .
 This can help in user retention and improving engagement .
@@ -35,21 +34,20 @@ The better engine can help with better recommendations improving the platform us
 
 ## Tools & Libraries Used
 - **Python 3.6**
+- **Surprise**
+- **Spacy**
+- **NLTK**
 - **Pandas**        
 - **Matplotlib**        
 - **Sklearn**            
 - **Seaborn**
-- **Statsmodels**      
-- **Scipy** 
-- **Keras with Tensorflow Backend**
-- **Plotly** 
 
 
 
        
 
 ## About the Data
-
+This repository uses the Movielens dataset collected by 
 
 ## Initial Preprocessing 
 

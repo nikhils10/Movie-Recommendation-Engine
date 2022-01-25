@@ -1,4 +1,5 @@
 # Movie-Recommendation-Engine
+![My Image](title.png)
 
 ## Project Overview 
 Building a movie recommendation engine using different techniques like content based and collaborative based methods.

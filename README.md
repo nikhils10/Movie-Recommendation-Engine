@@ -7,7 +7,7 @@ Content based techniques utilize the content about the movie to recommend simila
 In content based technique we have taken the following features of movies like its title, director, top actors , genre and combined them as one feature .
 Then we use word embeddings of 300 dimensions and generate cosine similarity matrix and find similar movies for that movie.
 
-Collaborate filtering based techniques works by searching large groups of people similar to you and recommends you what they watch.
+Collaborative filtering based techniques works by searching large groups of people similar to you and recommends you what they watch.
 In collaborative filtering we explored multiple methods on the utility matrix like user based, item based collaborative filtering .
 In user and item based we checked taking into account tough and easy raters by normalizing the ratings .
 We also checked methods matrix factorization methods like Singular Value Decomposition.

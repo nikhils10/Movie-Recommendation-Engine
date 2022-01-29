@@ -2,7 +2,7 @@
 ![My Image](pic.png)
 
 ## Project Overview 
-Building a movie recommendation engine using different techniques like content based and collaborative based methods.
+This repository helps builds a movie recommendation engine using different techniques like content based and collaborative based methods.
 Content based techniques utilize the content about the movie to recommend similar movie to you. For example if you liked a movie like "Batman Begins" it would recommend you similar movies like Batman. 
 
 In content based technique we have taken the following features of movies like its title, director, top actors , genre and combined them as one feature .

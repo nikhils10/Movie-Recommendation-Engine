@@ -60,6 +60,7 @@ Data points include cast, crew, plot keywords, budget, revenue, posters, release
 This dataset also has files containing 26 million ratings from 270,000 users for all 45,000 movies. Ratings are on a scale of 1-5 and have been obtained from the official GroupLens website.
 
 ## Credits/Resources
-> This dataset is an ensemble of data collected from TMDB and GroupLens.
-> Thanks to @Tanq16 for creating the github oages website and helping in creating optimized way to store recommendations using python script which efficiently stores similar movies after the model runs.
+This dataset is an ensemble of data collected from TMDB and GroupLens.
+
+Thanks to @Tanq16 for creating the github oages website and helping in creating optimized way to store recommendations using python script which efficiently stores similar movies after the model runs.
 

@@ -17,6 +17,7 @@ In collaborative filtering we explored multiple methods on the utility matrix li
 In user and item based we checked taking into account tough and easy raters by normalizing the ratings .
 We also checked methods matrix factorization methods like Singular Value Decomposition.
 
+This project hosts website using github pages hosted with assets in https://github.com/nikhils10/nikhils10.github.io repository. 
 
 ## Motivation
 Watching Netflix and seeing how good it is at recommending me the articles had me curious about what algorithms it uses to make those recommendations.

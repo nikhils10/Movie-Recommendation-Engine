@@ -1,6 +1,10 @@
 # Movie-Recommendation-Engine
 ![My Image](pic.png)
 
+## Try Recommender at https://nikhils10.github.io/ 
+Visit this page and get recommendations on what to watch next !!
+Enter a movie title name and get 10 another movies to watch !!
+
 ## Project Overview 
 This repository helps builds a movie recommendation engine using different techniques like content based and collaborative based methods.
 Content based techniques utilize the content about the movie to recommend similar movie to you. For example if you liked a movie like "Batman Begins" it would recommend you similar movies like Batman. 

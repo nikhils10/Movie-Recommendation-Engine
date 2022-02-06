@@ -62,5 +62,5 @@ This dataset also has files containing 26 million ratings from 270,000 users for
 ## Credits/Resources
 This dataset is an ensemble of data collected from TMDB and GroupLens.
 
-Thanks to @Tanq16 for creating the github oages website and helping in creating optimized way to store recommendations using python script which efficiently stores similar movies after the model runs.
+Thanks to @Tanq16 for creating the github pages website and helping in creating optimized way to store recommendations using python script which efficiently stores similar movies after the model runs.
 
